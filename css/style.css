@@ -1,0 +1,16 @@
+.btn-card{
+    background-color: grey;
+    color: white;
+}
+.card-body{
+    background-color: rgb(192, 176, 176);
+}
+.card{
+    width: 14rem;
+}
+.grid-bootstrap{
+    background-color:bisque ;
+}
+.grid-bootstrap div{
+    border: 1px solid black; 
+}
