@@ -14,3 +14,23 @@
 .grid-bootstrap div{
     border: 1px solid black; 
 }
+
+.nosotros{
+    text-align: center;
+    font-size: larger;
+
+}
+.entry-content{
+    text-align: center;
+    font-size: large;
+ 
+}
+
+.direccion{
+    text-align: center;
+    font-size: x-large;
+    
+}
+.contacto{
+    text-align: center;
+}
